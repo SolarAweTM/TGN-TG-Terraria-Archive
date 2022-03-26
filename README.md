@@ -1,4 +1,4 @@
-## TGN/TG Terraria World Archive
+## TGN/TG/TGF Terraria World Archive
 This is an archive of all the world downloads I have found during my time on and moderating the Terraria Server.
 If there is something missing, DM me on Discord (Solar Awe#1543) with the world.
 Special thanks to Aiken for creating the original archives.
