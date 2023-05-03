@@ -10,5 +10,6 @@ The Older Seasons folder contains worlds that are from Season 7 and before.
 ## Regarding modded worlds
 For modded worlds, make sure you download BOTH the .wld AND the .twld file.
 
-## About the player file
-The player file in the root directory is my attempt at translating TShock SSC data into an actual player file. It only contains the data leading up to the safe, and I did this by hand.
+## About players
+Player data is stored in the Players folder within the archives, sorted by season.
+Please note that due to limitations on the conversion methods I use, all players will use the default male style, and any mounts/pets/hooks were not converted.
